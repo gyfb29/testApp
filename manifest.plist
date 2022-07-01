@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.1.105/testApp/MXU.ipa</string>
+					<string>http://192.168.3.190/testApp/MXU.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
